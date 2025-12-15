@@ -1,0 +1,11 @@
+body {
+    font-size: 0.95rem;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.list-group-item {
+    font-size: 0.95rem;
+}
